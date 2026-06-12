@@ -45,6 +45,15 @@ This project analyzes a retail inventory dataset to extract meaningful insights 
 ## 📦 Stock Distribution
 ![Stock](closing%20stockdistribution.png)
 
+
 ## 🔥 Correlation Heatmap
 ![Heatmap](corelationheatmap.png)
-
+## 🎯 Project Outcome
+This project helps businesses:
+- Improve inventory management
+- Identify high-demand products
+- Reduce stock shortages
+- ## 🧠 What I Learned
+- Data cleaning and preprocessing
+- Data visualization techniques
+- Business insight generation
