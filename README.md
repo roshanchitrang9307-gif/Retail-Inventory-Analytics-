@@ -41,12 +41,11 @@ This project analyzes a retail inventory dataset to extract meaningful insights 
 - ## 📷 Visualizations
 
 ### Category Distribution
-![Category](category distribution.png)
+![Category](category%20distribution.png)
 
 ### Stock Distribution
-![Stock](closing stock distribution.png)
+![Stock](closing%20stock%20distribution.png)
 
 ### Correlation Heatmap
 ![Heatmap](correlationheatmap.png)
-![Category](category%20distribution.png)
 
