@@ -39,13 +39,12 @@ This project analyzes a retail inventory dataset to extract meaningful insights 
 - Build dashboard (Power BI / Tableau)  
 - Add predictive analytics
 - ## 📷 Visualizations
-
-### Category Distribution
+## 📊 Category Distribution
 ![Category](category%20distribution.png)
 
-### Stock Distribution
-![Stock](closing%20stock%20distribution.png)
+## 📦 Stock Distribution
+![Stock](closing%20stockdistribution.png)
 
-### Correlation Heatmap
-![Heatmap](correlationheatmap.png)
+## 🔥 Correlation Heatmap
+![Heatmap](corelationheatmap.png)
 
